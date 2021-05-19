@@ -1,0 +1,58 @@
+body{
+  background-repeat: no-repeat;
+  background-image:url('starwars one.jpg');
+  background-size: cover;
+  font-family:fantasy;
+  color:#f7cd09;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  justify-items: center ;
+  
+}
+h2{
+  text-shadow:4px  4px  4px rgba(1, 45, 53, 0.493);
+  width:1200px;
+ margin-top:20px;
+  margin-left:200px;
+}
+.btn btn-info border border-rounded border-warning shadow ml-5{
+  text-shadow:3px  3px  3px rgba(1, 45, 53, 0.493)
+}
+.bg-half-white text-center{
+  text-shadow:4px  4px  4px rgba(1, 45, 53, 0.493);
+}
+button.btn.btn-info.border.border-warning.border-rounded.shadow {
+  margin-left: 1780px;
+  color:#f7cd09;
+  font-family:fantasy;
+  font-size:20px;
+  font-weight:200;
+}
+form.border.border-rounded.border-warning.shadow.p-5.text-left.p-3 {
+  background-color: #03637a2a;
+  color: #f7cd09;
+  font-family: fantasy;
+  font-size: 20px;
+  font-weight: 200;
+  margin-top: 275px;
+ 
+  
+}
+
+.section {
+  margin-top: 355px;
+  background-color: #03637a2a;
+}
+
+
+section.section .border .border-warning .border-rounded {
+  width: 1500px;
+  margin-top:365px;
+}
+input.btn.btn-reg.btn-info.border.border-rounded.border-warning.shadow.mt-3 {
+    color: #f7cd09;
+}
+.navbar.bg-dark.navbar-dark.navbar-expand-lg.navbar-nav.shadow {
+  width: 1980px;
+}
